@@ -12,10 +12,13 @@ The dataset used for this analysis is sourced from csv file uploaded. You can fi
 
 # Python Libraries Used
 
-Pandas,
-NumPy,
-Matplotlib,
-Seaborn,
+Pandas
+
+NumPy
+
+Matplotlib
+
+Seaborn
 
 # Project Details
 
