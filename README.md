@@ -12,16 +12,19 @@ The dataset used for this analysis is sourced from csv file uploaded. You can fi
 
 # Python Libraries Used
 
-Pandas
-NumPy
-Matplotlib
-Seaborn
+Pandas,
+NumPy,
+Matplotlib,
+Seaborn,
 
 # Project Details
 
 Data Cleaning: The initial step involves cleaning up the dataset to prepare it for analysis. This includes handling missing values, removing duplicates, and ensuring data consistency.
+
 Data Analysis: The focus of the analysis is on advertising data daily time spent on site, how many males and females view the Ad, how many times they clicked on Ad and relation between time spent on site and internet usage. 
+
 Visualization: The insights derived from the data analysis are visually represented using Seaborn and other visualization libraries. This includes creating plots, charts, and graphs to effectively communicate the findings.
+
 Conclusion: The project concludes with a summary of key insights and observations obtained from the EDA process.
 
 # Usage
