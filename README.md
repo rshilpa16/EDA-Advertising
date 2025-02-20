@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Project-EDA
 
-This repository contains my Exploratory Data Analysis (EDA) project using Python Pandas. The project focuses on analyzing advertising dataset for area income and daily internet usage on Ad utilizing Jupyter Notebook for coding.
+This repository contains Exploratory Data Analysis (EDA) project using Python Pandas. The project focuses on analyzing advertising dataset for area income and daily internet usage on Ads utilizing Jupyter Notebook for coding.
 
 # Overview
 
@@ -24,7 +24,7 @@ Seaborn
 
 Data Cleaning: The initial step involves cleaning up the dataset to prepare it for analysis. This includes handling missing values, removing duplicates, and ensuring data consistency.
 
-Data Analysis: The focus of the analysis is on advertising data daily time spent on site, how many males and females view the Ad, how many times they clicked on Ad and relation between time spent on site and internet usage. 
+Data Analysis: The focus of the analysis is on advertising data daily time spent on site, how many males and females view the Ads, how many times they clicked on Ad and relation between time spent on site and internet usage. 
 
 Visualization: The insights derived from the data analysis are visually represented using Seaborn and other visualization libraries. This includes creating plots, charts, and graphs to effectively communicate the findings.
 
