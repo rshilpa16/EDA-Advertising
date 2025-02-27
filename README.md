@@ -1,6 +1,6 @@
 # Exploratory-Data-Analysis-Project-EDA
 
-This repository contains Exploratory Data Analysis (EDA) project using Python Pandas. The project focuses on analyzing advertising dataset for area income and daily internet usage on Ads utilizing Jupyter Notebook for coding.
+This repository contains Exploratory Data Analysis (EDA) project using Python Pandas, Numpy, Matplotlib and Seaborn. The project focuses on analyzing advertising dataset for area income and daily internet usage on Ads utilizing Jupyter Notebook for coding.
 
 # Overview
 
